@@ -257,3 +257,9 @@ Security
 -------------
 
 **Caesar cipher** - Implement a Caesar cipher, both encoding and decoding. The key is an integer from 1 to 25. This cipher rotates the letters of the alphabet (A to Z). The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A). So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC". This simple "monoalphabetic substitution cipher" provides almost no security, because an attacker who has the encoded message can either use frequency analysis to guess the key, or just try all 25 keys. [[shyamsalimkumar (Python)]](https://github.com/shyamsalimkumar/Projects/blob/master/Security/caesar_cipher.py) [[sriniavireddy (python)]](https://github.com/sriniavireddy/scripts-and-solutions/blob/master/CaesarCipher.py) 
+
+
+Other - Pet Projects, etc.
+-------------
+
+**LearningApp** - This application is made in the style of exam tickets, with the possibility of spaced repetitions of the material. When you say you know the material, it disappears for a certain amount of time and then reappears. [[genyk1p (Python)]](https://github.com/genyk1p/LearningApp) 
